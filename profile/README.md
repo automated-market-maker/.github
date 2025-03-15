@@ -1,4 +1,4 @@
-![Automated Market Making 2](https://github.com/user-attachments/assets/477c17e6-f8d7-42b2-a1bc-d5023f1e653f)# Automated Market Making 
+# Automated Market Making 
 
 ![Automated Market Making](https://github.com/user-attachments/assets/957a9118-2440-41dc-9e79-c80106326337)
 

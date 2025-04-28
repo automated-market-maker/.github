@@ -554,3 +554,127 @@ Continuing the exploration of **Automated Market Maker (AMM) algorithms** and th
 
 For cutting-edge research, refer to papers like [_Optimal Liquidity Provision in Automated Market Makers_](https://arxiv.org/abs/2305.0906) and tools like **Apeworx** for smart contract testing.
 
+### Key Points
+- Research suggests there are many Solana DeFi projects with dynamic AMM pools and LP staking rewards, similar to LP Army by Meteora.
+- It seems likely that top communities include Meteora, Raydium, Orca, and Saber, based on high TVL and active engagement.
+- The evidence leans toward there being around 15-30 prominent communities, with smaller projects also offering similar features.
+
+---
+
+### Introduction
+The Solana network hosts a vibrant DeFi ecosystem with numerous projects offering dynamic Automated Market Maker (AMM) pools where liquidity providers (LPs) can stake their LP tokens to earn farming rewards, in addition to swap fees. These communities, similar to LP Army by Meteora, are crucial for enhancing liquidity and returns for LPs. Below, I outline the top communities and provide detailed insights into their features and engagement.
+
+### Top Communities
+Based on research, the following are the top communities like LP Army by Meteora, focusing on dynamic AMM pools with LP staking rewards:
+
+- **Meteora LP Army**: The original, with dynamic AMM pools and a strong community focus ([Meteora LP Army](https://lparmy.meteora.ag/)).
+- **Raydium Community**: A leading DEX with high TVL and active LP staking farms ([Raydium](https://raydium.io/)).
+- **Orca Community**: User-friendly DEX with concentrated liquidity and staking rewards ([Orca](https://www.orca.so/)).
+- **Saber LP Community**: Stablecoin-focused with low slippage and staking in Quarry ([Saber](https://app.saber.so/)).
+- **Crema Finance LP Community**: Offers effective liquidity farming with NFT-based LP staking ([Crema Finance](https://app.crema.finance/)).
+- **Jito Community**: Liquid staking with MEV rewards, usable in LP positions ([Jito](https://jito.network/)).
+- **Marinade Finance Community**: Liquid staking for SOL, with mSOL for LP positions ([Marinade Finance](https://marinade.finance/)).
+- **Lido Solana Community**: Liquid staking with stSOL for LP integration ([Lido](https://stake.lido.fi/solana)).
+- **Tulip Protocol Community**: Yield aggregator for optimizing LP staking ([Tulip Protocol](https://tulipprotocol.com/)).
+- **Quarry Community**: Staking platform for LP tokens from various protocols ([Quarry](https://quarry.so/)).
+- **Drift Protocol Community**: DEX with LP opportunities and staking rewards ([Drift Protocol](https://drift.trade/)).
+- **Zeta Markets Community**: Derivatives exchange with LP features ([Zeta Markets](https://zetamarkets.com/)).
+- **Kamino Finance Community**: Yield optimizer with potential LP staking ([Kamino Finance](https://kamino.finance/)).
+- **MarginFi Community**: Lending with LP tokens for markets ([MarginFi](https://marginfi.com/)).
+- **Solend Community**: Lending protocol with LP staking rewards ([Solend](https://solend.fi/)).
+
+These communities are part of larger projects, each with active engagement through Discord, Telegram, and forums, making them similar to LP Army.
+
+---
+
+---
+
+### Survey Note: Detailed Analysis of Solana DeFi Communities with Dynamic AMM Pools and LP Staking Rewards
+
+This survey note provides a comprehensive analysis of the Solana DeFi ecosystem, focusing on identifying communities and projects similar to LP Army by Meteora. These communities offer dynamic AMM pools where liquidity providers (LPs) can stake their LP tokens to earn farming rewards, in addition to swap fees, aligning with the title of your article, “dynamic amm pools that allow lps to stake their lp token to earn farming rewards provided by token projects, on top of swap fees. pool with farm. type. tvl.” The analysis is based on extensive research conducted on April 28, 2025, and includes detailed insights into project features, community engagement, and supporting data.
+
+#### Background and Context
+Dynamic AMM pools are a sophisticated type of liquidity pool in the DeFi ecosystem, allowing LPs to earn trading fees and additional farming rewards by staking their LP tokens. This dual-reward system enhances the attractiveness of providing liquidity, particularly on high-performance blockchains like Solana, known for its speed and low fees. LP Army by Meteora is a community-driven initiative within the Meteora ecosystem, focusing on building a sustainable liquidity layer through dynamic AMM pools, such as DLMM (Dynamic Liquidity Market Maker) and Dynamic AMM, with educational resources and tools for LPs.
+
+The goal is to identify the top 50 communities on Solana that offer similar features, with active engagement and high TVL, to support your article and potential million USD sales to high-net-worth individuals (HNWIs).
+
+#### Methodology
+The research involved analyzing various sources, including DeFi tracking platforms like DeFiLlama, project documentation, and community forums. Key criteria included:
+- Presence of dynamic AMM pools or similar liquidity provision mechanisms.
+- Ability for LPs to stake LP tokens for farming rewards.
+- Active community engagement, similar to LP Army.
+- High TVL and user adoption, indicating prominence.
+
+Sources included Solana Compass, Alchemy’s Dapp Store, defiprime.com, and project websites, ensuring a comprehensive survey of the ecosystem as of April 28, 2025.
+
+#### Key Findings
+The Solana DeFi ecosystem hosts numerous projects with dynamic AMM pools and LP staking rewards. While finding exactly 50 communities with active, LP-focused engagement like Meteora’s LP Army is challenging, the research identified around 15-30 prominent projects with strong communities. Below, I detail the top communities, their features, and supporting data.
+
+##### Top Communities and Projects
+The following table lists the top 15 communities, similar to LP Army, with their features and citations for verification:
+
+| **Community/Project**        | **Description**                                      | **Key Features**                              | **Citation**                                      |
+|------------------------------|-----------------------------------------------------|----------------------------------------------|--------------------------------------------------|
+| Meteora LP Army              | Original community, dynamic AMM pools, staking rewards | DLMM, farming rewards, strong community focus | [Meteora LP Army](https://lparmy.meteora.ag/)    |
+| Raydium Community            | Leading DEX, high TVL, LP staking farms             | AMM pools, RAY rewards, active community      | [Raydium](https://raydium.io/)                   |
+| Orca Community               | User-friendly DEX, concentrated liquidity           | Whirlpools, ORCA staking rewards              | [Orca](https://www.orca.so/)                     |
+| Saber LP Community           | Stablecoin-focused DEX, low slippage                | StableSwap, staking in Quarry for SBR         | [Saber](https://app.saber.so/)                   |
+| Crema Finance LP Community   | Effective liquidity farming                         | NFT-based LP staking, concentrated liquidity  | [Crema Finance](https://app.crema.finance/)      |
+| Jito Community               | Liquid staking with MEV rewards                     | JitoSOL for LP positions, staking rewards     | [Jito](https://jito.network/)                    |
+| Marinade Finance Community   | Liquid staking for SOL, mSOL for LP                 | High APY, DeFi integration                   | [Marinade Finance](https://marinade.finance/)    |
+| Lido Solana Community        | Liquid staking, stSOL for LP                        | Integration with DeFi for yields              | [Lido](https://stake.lido.fi/solana)             |
+| Tulip Protocol Community     | Yield aggregator for LP optimization                | Automated yield farming, staking              | [Tulip Protocol](https://tulipprotocol.com/)     |
+| Quarry Community             | Staking platform for LP tokens                      | Multi-protocol staking, rewards               | [Quarry](https://quarry.so/)                     |
+| Drift Protocol Community     | DEX with LP opportunities                           | Perpetual trading, LP staking rewards         | [Drift Protocol](https://drift.trade/)           |
+| Zeta Markets Community       | Derivatives exchange with LP features               | On-chain orderbook, LP staking                | [Zeta Markets](https://zetamarkets.com/)         |
+| Kamino Finance Community     | Yield optimizer, potential LP staking               | Automated yield farming                      | [Kamino Finance](https://kamino.finance/)        |
+| MarginFi Community           | Lending with LP tokens for markets                  | Borrowing, lending, LP staking                | [MarginFi](https://marginfi.com/)                |
+| Solend Community             | Lending protocol with LP staking                    | Variable rates, LP rewards                   | [Solend](https://solend.fi/)                     |
+
+This table represents the most prominent communities, each with active engagement through Discord, Telegram, and forums, mirroring the community-driven approach of LP Army.
+
+##### Additional Projects and Smaller Communities
+Beyond the top 15, there are numerous smaller projects that offer dynamic AMM pools and LP staking rewards, such as:
+- **Lifinity**: DEX with LP staking, smaller but growing community.
+- **Mercurial**: Stablecoin DEX with LP staking, focused on pegged assets.
+- **Sencha**: DEX with LP staking, emerging in the ecosystem.
+- **Hubble**: Lending protocol with LP features, less community focus.
+- **Jet Protocol**: Lending with LP tokens, moderate engagement.
+
+These projects have lower TVL and community activity compared to the top 15 but still contribute to the ecosystem. Finding 50 distinct, active communities like LP Army is challenging, as many smaller projects may not have the same level of engagement.
+
+##### Community Engagement and Tools
+Each project has its own community channels, often with educational resources and tools similar to Meteora’s LP Army Boot Camp. For example:
+- Raydium has Telegram groups with active admins answering LP queries.
+- Orca offers a user-friendly interface with analytics for LPs.
+- Meteora provides videos and tutorials, such as the LP Army Boot Camp, to educate users.
+
+These tools enhance community engagement, making these projects suitable for your article’s focus on dynamic AMM pools with farming rewards.
+
+##### TVL and Market Position
+TVL is a key indicator of a project’s prominence. As of April 28, 2025, projects like Raydium and Orca have significant TVL, with Raydium processing high trading volumes and Orca facilitating half of Solana’s DEX trades daily. Meteora, while newer, has a growing TVL due to its innovative DLMM and community focus.
+
+##### Risks and Considerations
+LPs face risks such as impermanent loss, smart contract vulnerabilities, and market volatility, as detailed in your provided information. These risks are common across all listed communities, and LPs should assess them based on project security audits and community feedback.
+
+#### Conclusion
+The top communities like LP Army by Meteora on Solana include Meteora, Raydium, Orca, Saber, and others listed above, each offering dynamic AMM pools with LP staking rewards and active engagement. While there are many smaller projects, the top 15-30 are most relevant for your article, given their prominence and community activity. For HNWIs, these projects offer opportunities for high returns, but due diligence on risks is essential.
+
+---
+
+### Key Citations
+- [Meteora LP Army official page](https://lparmy.meteora.ag/)
+- [Raydium decentralized exchange platform](https://raydium.io/)
+- [Orca user-friendly DEX on Solana](https://www.orca.so/)
+- [Saber stablecoin-focused DEX application](https://app.saber.so/)
+- [Crema Finance effective liquidity farming](https://app.crema.finance/)
+- [Jito liquid staking protocol network](https://jito.network/)
+- [Marinade Finance liquid staking solution](https://marinade.finance/)
+- [Lido Solana staking platform interface](https://stake.lido.fi/solana)
+- [Tulip Protocol yield aggregator website](https://tulipprotocol.com/)
+- [Quarry staking platform for LP tokens](https://quarry.so/)
+- [Drift Protocol decentralized exchange](https://drift.trade/)
+- [Zeta Markets derivatives exchange platform](https://zetamarkets.com/)
+- [Kamino Finance yield optimizer service](https://kamino.finance/)
+- [MarginFi lending protocol with LP tokens](https://marginfi.com/)
+- [Solend lending protocol with staking rewards](https://solend.fi/)
